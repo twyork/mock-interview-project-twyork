@@ -49,7 +49,7 @@ const SendMail = (interview)=>{
         email_id: interview.interviewEmail,
         message: `This email was sent to ${interview.interviewEmail}. ${interview.interviewName}'s interview is ${interview.timeDropbox}.`
     }
-    emailjs.send('service_qkpr1xy', 'template_c6muc1j', params).then(function (res){
+    emailjs.send(/*sensitive email stuff here*/, /*sensitive email stuff here*/, params).then(function (res){
         alert('Email has been sent to ' + interview.interviewEmail + 'Status: ' + res.status)
     })
 }
