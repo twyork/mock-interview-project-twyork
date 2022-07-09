@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kRYZFRJB0u12X8+mzzT21lcsLQo0vo/5AChl+XVurlAXt5wrFgIk/qoepFyQxK9YKLn6e7HHyrdxtV7kNkbKsw==",
+  "dgSpecHash": "S1QsSHNsDPc1nAA1IakjPlbVYrKSoPqSQjFYr/r5JxdrEPsxGmz9hw0c4Nh6BaYrvUinO3KwM8fT0Nf7mfBpaw==",
   "success": true,
-  "projectFilePath": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork/api/api.csproj",
+  "projectFilePath": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork-shared/api/api.csproj",
   "expectedPackageFiles": [
     "/Users/trevoryork/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
     "/Users/trevoryork/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

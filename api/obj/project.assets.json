@@ -8839,11 +8839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork/api/api.csproj",
+      "projectUniqueName": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork-shared/api/api.csproj",
       "projectName": "api",
-      "projectPath": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork/api/api.csproj",
+      "projectPath": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork-shared/api/api.csproj",
       "packagesPath": "/Users/trevoryork/.nuget/packages/",
-      "outputPath": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork/api/obj/",
+      "outputPath": "/Users/trevoryork/Desktop/MIS-Source/summer-work/mock-interview-twyork-shared/api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/trevoryork/.nuget/NuGet/NuGet.Config"
